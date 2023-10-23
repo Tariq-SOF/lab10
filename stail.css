@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+}
+
+header{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.navv{
+    color: white;
+    display: flex;
+    justify-content: space-around
+}
+.navv li{
+    align-items: center;
+    cursor: pointer;
+    padding: 0px 20px;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+}
+
+
+.ttm{
+    background-color: white;
+}
